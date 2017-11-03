@@ -1,0 +1,30 @@
+h1 {
+  color: fuchsia;
+}
+body{
+  background-color:grey;
+}
+nav {
+  background-color: Red;
+   min-width: 360px !Important;
+}
+.navbar-brand {
+  font-size: 20px;
+  color: black;
+}
+section {
+  display: block;
+}
+#IntroSec{
+  margin-top:80px;
+  height:700px;
+  background-color:grey;
+}
+#CutsSec{
+  height:700px;
+  background-color:red;
+}
+#AboutSec{
+  height:700px;
+  background-color:green;
+}
